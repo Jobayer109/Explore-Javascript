@@ -13,7 +13,7 @@ division = parseFloat(division)
 
 
 
-var mango = 7;
-var people = 3;
+var mango = 17;
+var people = 5;
 var division = mango % people;
 console.log(division);
