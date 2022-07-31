@@ -32,6 +32,3 @@ var user_home_address = "bd, dhaka"; // snake case.
 var userHomeAddress = "bd, dhaka"; // camel case: we'll use this one.
 var UserHomeAddress = "bd, dhaka"; // pascal case.
 
-
-
-
